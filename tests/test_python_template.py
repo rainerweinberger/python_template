@@ -22,3 +22,7 @@ import pytest
 def test_python_template_loadable():
     import python_template
     assert True
+
+def test_hello()
+    import python_template
+    assert python_template.hello() == "Hello!"
